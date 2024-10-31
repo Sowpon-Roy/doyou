@@ -27,7 +27,7 @@ yesbtn.addEventListener('click', () =>{
         container.style.width = "100vw";
         container.style.maxHeight ="700px";
         container.style.maxWidth = "900px";
-        question.innerHTML = "&#x1F60D"
+        question.innerHTML = "&#9829"
         question.style.cssText = "font-size:9rem;margin-top:250px;color:red;"
     }, 6000);
     setTimeout(() => {
